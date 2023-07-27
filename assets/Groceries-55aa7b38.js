@@ -1,0 +1,1 @@
+import{j as r}from"./index-b1bac47a.js";import{C as e}from"./Content-54b3f291.js";const o=()=>r.jsx(e,{title:"Groceries",showSearchBar:!1,children:r.jsx("div",{className:"mt-4"})});export{o as Groceries};
